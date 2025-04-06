@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"BAT1",1," Coin Cell 3V Battery"
+"D1, D2, D3",3,"Red LED"
+"S1, S2, S3, S4, S6, S7",6," Pushbutton"
+"R1, R3",2,"220 Ω Resistor"
+"M1",1," Vibration Motor"
+"T1, T2, T3, T4",4," NPN Transistor (BJT)"
+"R4, R5",2,"4.7 kΩ Resistor"
